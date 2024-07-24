@@ -1,0 +1,49 @@
+
+            
+            body{
+                min-width: 400px;
+                padding: 5px;
+                margin: 0;
+                font-family: Arial, Helvetica, sans-serif;
+                background-color: rgb(255, 255, 255);
+            }
+            input{
+                border-radius: 3px;
+                margin-bottom: 10px;
+                margin-left: 5px;
+                width: 310px;
+                height: 30px;
+                padding: 5px;
+                border: 2px solid rgb(53, 129, 196);
+                text-align: center;
+                color: rgb(53, 129, 196);
+                font-size: large;
+            }
+
+            button{
+                border-radius: 3px;
+                margin: 4px;  
+                padding: 10px 15px;  
+                background-color: rgb(53, 129, 196);
+                color: rgb(213, 218, 224);
+                border-color: rgb(53, 129, 196);
+                border-style: solid;
+                font-size: medium;
+            }   
+            #delete_url {
+                background: white;
+                color: rgb(53, 129, 196);
+                border-style: solid;
+            }
+            a{
+                color: rgb(53, 129, 196);
+            }
+            ul{
+                list-style: none;
+                margin-top: 20px;
+                padding-left: 0px;
+            }
+            li{
+                margin-top: 5px;
+            }
+    
